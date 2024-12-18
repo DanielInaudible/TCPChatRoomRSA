@@ -1,3 +1,6 @@
+This task is *active* as TCPFileTransfer is done and working(linux only...)
+Cant code today due to the stress of 2 jobs and school, will be back(probably) tommorow.
+
 ## TO-DO
 - Research possible implementations of TCP server for hnadling multiple clients, as for this time's knowledge, i can only think of handling 1 client for a given socket a server has, possible explanation: https://www.geeksforgeeks.org/socket-programming-in-cc-handling-multiple-clients-on-server-without-multi-threading/
 
