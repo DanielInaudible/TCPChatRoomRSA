@@ -1,9 +1,9 @@
-This task is *active* as TCPFileTransfer is done and working(linux only...)
-Cant code today due to the stress of 2 jobs and school, will be back(probably) tommorow.
+## Acceptation Criteria
+- Create a functional TCP client-server model with multiple possible connections, this will be possible by using 'select()' and ServerFD and ClientFD
+- Implement RSA 2048 encryption
+- Deploy the application using GUI, like Qt
+- Tinker with CMAKE
 
-## TO-DO
-- Decide whatever to use / not use NCURSES for UI(probably not)
-- When this is done, start thingking of RSA key exchange (diffie helman). I know how it works, what it does, so i will just need to handle cases, for when a new host joins the chatroom. Will the chatroom store the keys so in the chatroom there will be encryption/decryption, or should i store all other user keys on endpoints such as clients ?(investigate later)
-
-## DONE
-- Researched multiple connectionsDue to the shift of my focus on malware analysis/malware development I am stopping all current projects and switching to MalDev Academy for code
+## Resources
+- Qt: https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4
+- Sockets: https://www.geeksforgeeks.org/socket-programming-in-cc-handling-multiple-clients-on-server-without-multi-threading/
